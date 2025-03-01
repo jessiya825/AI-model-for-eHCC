@@ -9,13 +9,11 @@ The modeling and analysis of HE image were developed in Python (3.9). The pre-pr
 
 For detailed information on the specific modeling and statistical analysis methods, please refer to the supplementary methods.
 
-The **transcriptomics** gene and functional analysis code can be obtained from /AI-model-for-eHCC/RNA.
-The **deep learning model TMC-net** modeling code can be obtained from /AI-model-for-eHCC/TMC-net.
-The **candidate biomarker screening** and **XGBoost** modeling code can be obtained from /AI-model-for-eHCC/RNA_model.
-The **multimodal model** modeling code can be obtained from /AI-model-for-eHCC/multimodal_model.
-The **survival analysis** modeling code can be obtained from /AI-model-for-eHCC/supplementary.
-
-The raw **spatial transcriptomics** data are available in the paper and/or in the supplementary materials.
+The **transcriptomics** gene and functional analysis code can be obtained from /AI-model-for-eHCC/RNA.  
+The **deep learning model TMC-net** modeling code can be obtained from /AI-model-for-eHCC/TMC-net.  
+The **candidate biomarker screening** and **XGBoost** modeling code can be obtained from /AI-model-for-eHCC/RNA_model.  
+The **multimodal model** modeling code can be obtained from /AI-model-for-eHCC/multimodal_model.  
+The **survival analysis** modeling code can be obtained from /AI-model-for-eHCC/supplementary.  
 
 ## Citation
 If you use code or data in this project, please cite:
